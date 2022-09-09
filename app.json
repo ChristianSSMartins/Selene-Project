@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "SeleneProject",
+    "slug": "SeleneProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
